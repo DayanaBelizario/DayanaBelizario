@@ -12,7 +12,7 @@
 
 ### 🧠 Sobre mim
 
-Sou desenvolvedora Front-end com foco em criar interfaces modernas, responsivas e acessíveis. Tenho 30 anos, sou apaixonada por boas práticas, por UX/UI e estou sempre em busca de aprimorar minhas habilidades técnicas e criativas.
+Sou desenvolvedora Front-end com foco em criar interfaces modernas, responsivas e acessíveis. Tenho 30 anos, sou apaixonada por boas práticas, estou sempre em busca de aprimorar minhas habilidades técnicas e criativas.
 
 Atualmente, trabalho com as seguintes tecnologias:
 
